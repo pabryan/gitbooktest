@@ -3,3 +3,7 @@
         "readme": "Intro.md"
     }
 }
+
+{
+    plugins: ["mathjax"]
+}
